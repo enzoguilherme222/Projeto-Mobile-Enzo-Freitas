@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+center h1 {
+    color: #e44d26; 
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #e44d26;
+    margin-top: 30px;
+    border-bottom: 2px solid #e44d26;
+    padding-bottom: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+a button {
+    background-color: #e44d26;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a button:hover {
+    background-color: #d1411c;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    color: #777;
+    font-size: 0.9em;
+}
+
+
+
+body {
+    font-family: sans-serif; /* Uma fonte clean e moderna */
+    line-height: 1.6; /* Espaçamento entre linhas para melhor leitura */
+    margin: 20px; /* Espaço nas bordas da página */
+    background-color: #f4f4f4; /* Um fundo cinza claro suave */
+    color: #333; /* Cor do texto principal */
+  }
+  
+  h1, h3 {
+    color: #e44d26; /* Uma cor vibrante para os títulos */
+    text-align: center; /* Centralizar os títulos */
+  }
+  
+  ol {
+    list-style-type: decimal; /* Usar números como marcadores da lista */
+    padding-left: 20px; /* Espaço à esquerda da lista */
+    margin-bottom: 20px; /* Espaço abaixo da lista */
+    background-color: #fff; /* Fundo branco para a lista */
+    border: 1px solid #ddd; /* Borda sutil */
+    border-radius: 5px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento interno da lista */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Uma sombra leve */
+  }
+  
+  li {
+    margin-bottom: 10px; /* Espaço entre os itens da lista */
+    color: #555; /* Cor dos itens da lista */
+  }
+  
+  li:last-child {
+    margin-bottom: 0; /* Remover a margem do último item */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
